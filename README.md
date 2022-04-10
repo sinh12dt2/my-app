@@ -1,1 +1,1 @@
-# react-typescript
+# my-app
